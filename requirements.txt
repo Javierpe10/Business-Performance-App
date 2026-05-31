@@ -1,0 +1,36 @@
+# Core data
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
+
+# HTTP and scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+tenacity>=8.2.0
+tqdm>=4.66.0
+
+# Google Maps / Places
+googlemaps>=4.10.0
+
+# Geocoding / districts
+geopy>=2.4.0
+shapely>=2.0.0
+
+# Notebooks / analysis
+jupyter>=1.0.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# Modelling
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+joblib>=1.3.0
+
+# Optional: producto final con Streamlit
+streamlit>=1.30.0
+
+# Optional: deeper price extraction with rendered JS pages
+# playwright>=1.40.0
